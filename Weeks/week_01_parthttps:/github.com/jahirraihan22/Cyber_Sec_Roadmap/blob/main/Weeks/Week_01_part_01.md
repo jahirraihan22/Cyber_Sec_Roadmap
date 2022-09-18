@@ -51,7 +51,4 @@ Information overload (also known as infobesity, infoxication, information anxiet
 - LinkedIn profile =  >  a must / a post every week  
 - Do we need networking knowledge / yes / 
 - terminologies and how it works 
-- where it sits Your expectation Vs. My expectation 
-- Why would you fail ? No direct relationship to next class –  
-- if you miss any class – what will happen ? 
-- A bit of advice :  Dual monitor  Linux – practice ?  online offline Q/A  
+- A bit of advice :  Dual monitor  Linux – practice  
