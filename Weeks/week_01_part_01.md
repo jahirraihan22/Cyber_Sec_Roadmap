@@ -1,9 +1,8 @@
-# Day 01 Summary:
+# Day 01
 
  
-How a mentor can help you? 
- 
-Fast track learning Avoid Information Infoxication (  UpToDate info from real world market/scenario Connecting the dot Professional approach / thought process etc 
+### How a mentor can help you? 
+If you want too learn new things mentor is very important. Fast track learning Avoid Information Infoxication (  UpToDate info from real world market/scenario Connecting the dot Professional approach / thought process etc 
  
 Information overload (also known as infobesity, infoxication, information anxiety, and information explosion) is the difficulty in understanding an issue and effectively making decisions when one has too much information about that issue, and is generally associated with the excessive quantity of daily information. 
  
