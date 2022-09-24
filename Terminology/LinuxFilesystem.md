@@ -5,7 +5,7 @@
 Linux recognize everything as a file, it the one of the defining features of Linux and Other Unix like operating system. In Linux filesystem some files appear but actually they are not files. they are special files that represent your hardware from keyboard to your cpu. To manage directories and files Linux uses **Directory Tree**.
 
 <p align="center">
- <img src="./resources/directory-tree.jpg?raw=true" alt="cloud is linux" width="50%" height="50%" />
+ <img src="../Weeks/resources/directory-tree.jpg?raw=true" alt="cloud is linux" width="50%" height="50%" />
 </p>
 
 - **/ (root)** : In Linux system, all other directories are derived from the root directory. It is is closely related to the boot, repair and restore of the Linux system.
